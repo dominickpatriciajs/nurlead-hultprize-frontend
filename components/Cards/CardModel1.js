@@ -21,8 +21,8 @@ const CardModel1 = () =>{
       <CardMedia
         component="img"
         height="194"
-        image="/image.jpg"
-        alt="Paella dish"
+        image="/nurlead-hultprize-frontend/image.jpg"
+        alt="Nurlead Image"
       />
 
         <CardContent>
